@@ -4,4 +4,5 @@ module JavaFX1 {
     requires javafx.controls;
 
     exports seedu.address;
+    opens seedu.address.view;
 }
