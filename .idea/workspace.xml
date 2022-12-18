@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cba773b-24e0-4f47-9669-451fe79d156c" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/seedu/address/view/PersonOverviewController.java" afterDir="false" />
+    <list default="true" id="5cba773b-24e0-4f47-9669-451fe79d156c" name="Changes" comment="Version Intellij Done">
+      <change afterPath="$PROJECT_DIR$/src/seedu/address/util/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seedu/address/view/PersonEditDialog.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seedu/address/view/PersonEditDialogController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/seedu/address/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seedu/address/MainApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/seedu/address/view/PersonOverview.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/seedu/address/view/PersonOverview.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seedu/address/view/PersonOverviewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seedu/address/view/PersonOverviewController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +21,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="FxmlFile" />
         <option value="JavaFXApplication" />
         <option value="module-info" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -43,9 +45,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager">
@@ -91,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671369944033</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Version Intellij Done">
+      <created>1671372170550</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671372170550</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Version Intellij Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version Intellij Done" />
   </component>
 </project>
