@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cba773b-24e0-4f47-9669-451fe79d156c" name="Changes" comment="Versions User Interact Done">
+    <list default="true" id="5cba773b-24e0-4f47-9669-451fe79d156c" name="Changes" comment="Version CSS Styling Done">
+      <change afterPath="$PROJECT_DIR$/src/seedu/address/model/PersonListWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seedu/address/util/LocalDateAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seedu/address/view/RootLayoutController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/seedu/address/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seedu/address/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seedu/address/view/PersonEditDialog.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/seedu/address/view/PersonEditDialog.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seedu/address/view/PersonOverview.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/seedu/address/view/PersonOverview.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seedu/address/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seedu/address/model/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/seedu/address/view/RootLayout.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/seedu/address/view/RootLayout.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,13 +37,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2J5TtEuVDfnLXNL4B797nPNaurQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -106,7 +113,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671390158668</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Version CSS Styling Done">
+      <created>1671393062327</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671393062327</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Version CSS Styling Done">
+      <created>1671393081078</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671393081078</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,9 +142,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Version Intellij Done" />
     <MESSAGE value="Versions User Interact Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Versions User Interact Done" />
+    <MESSAGE value="Version CSS Styling Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version CSS Styling Done" />
   </component>
 </project>
